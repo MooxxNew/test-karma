@@ -1,1 +1,5 @@
 # test-karma
+
+```
+karma start
+```
