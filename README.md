@@ -1,5 +1,8 @@
 # test-karma
 
 ```
+npm install karma karma-jasmine jasmine-core karma-chrome-launcher --save-dev
+npm install -g karma-cli
+npm install angular angular-ui-router angular-mocks --save-dev
 karma start
 ```
